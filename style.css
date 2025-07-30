@@ -40,6 +40,5 @@ body {
 .pitch-image img {
   max-width: 90%;
   max-height: 90%;
-  border: 3px solid #2e8b57;
   border-radius: 10px;
 }
