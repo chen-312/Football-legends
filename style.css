@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.players-list {
+  flex: 1;
+  padding: 40px;
+  background-color: #f4f4f4;
+}
+
+.players-list h2 {
+  margin-bottom: 20px;
+}
+
+.players-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.players-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.pitch-image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0ffe0;
+}
+
+.pitch-image img {
+  max-width: 90%;
+  max-height: 90%;
+  border: 3px solid #2e8b57;
+  border-radius: 10px;
+}
