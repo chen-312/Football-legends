@@ -15,10 +15,6 @@ body {
   background-color: #f4f4f4;
 }
 
-.players-list h2 {
-  margin-bottom: 20px;
-}
-
 .players-list ul {
   list-style: none;
   padding: 0;
